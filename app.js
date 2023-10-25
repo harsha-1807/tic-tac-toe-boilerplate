@@ -1,3 +1,4 @@
+
 /// List down all the wining combinations 
 
 let winningCombinations = [
@@ -82,3 +83,5 @@ var button = document.getElementById("button");
 button.addEventListener("click", () => {
     location.reload();
 });
+
+
